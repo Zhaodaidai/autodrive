@@ -1,0 +1,5 @@
+payload:
+  - 'raylink.live'
+  - 'todesk.com'
+  - '+.raylink.live'
+  - '+.todesk.com'
