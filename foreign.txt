@@ -1,0 +1,4 @@
+payload:
+  - 'sub.v1.mk'
+  - 'echnical.city'
+  - '+.roboflow.com'
