@@ -1,4 +1,5 @@
 payload:
-  - 'sub.v1.mk'
-  - 'echnical.city'
-  - '+.roboflow.com'
+  - DOMAIN-SUFFIX,sub.v1.mk
+  - DOMAIN-SUFFIX,echnical.city
+  - DOMAIN-KEYWORD,roboflow
+  - DOMAIN-KEYWORD,echnical
