@@ -1,6 +1,5 @@
 payload:
-  - 'raylink.live'
-  - 'todesk.com'
-  - '+.raylink.live'
-  - '+.todesk.com'
-  - IP-CIDR，120.53.230.228/32
+  - DOMAIN-SUFFIX,raylink.live
+  - DOMAIN-SUFFIX,todesk.com
+  - DOMAIN-KEYWORD,todesk
+  - DOMAIN-KEYWORD,raylink
