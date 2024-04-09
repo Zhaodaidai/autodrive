@@ -1,5 +1,7 @@
 [custom]
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
+ruleset=🌍 国外媒体,clash-classic:https://raw.githubusercontent.com/Zhaodaidai/autodrive/main/foreign.list
+ruleset=🎯 全球直连,clash-classic:https://raw.githubusercontent.com/Zhaodaidai/autodrive/main/CN_domestic.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
 ruleset=🛑 广告拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
 ruleset=🍃 应用净化,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list
