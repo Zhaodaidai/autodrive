@@ -1,0 +1,15 @@
+#域名直连
+DOMAIN-SUFFIX,raylink.live
+DOMAIN-SUFFIX,todesk.com
+DOMAIN-SUFFIX,aliyuncs.com
+DOMAIN-SUFFIX,freer.blog
+#域名关键词直连
+DOMAIN-KEYWORD,todesk
+DOMAIN-KEYWORD,raylink
+DOMAIN-KEYWORD,gamer520
+DOMAIN-KEYWORD,sunlogin
+DOMAIN-KEYWORD,byteamone
+DOMAIN-KEYWORD,taobao
+DOMAIN-KEYWORD,aliyun
+#IP直连
+IP-CIDR,120.53.230.228/24,no-resolve
