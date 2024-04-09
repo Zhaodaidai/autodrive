@@ -1,6 +1,6 @@
-#域名域名直连
+#域名代理
 DOMAIN-SUFFIX,sub.v1.mk
 DOMAIN-SUFFIX,echnical.city
-域名关键词直连
+#域名关键词代理
 DOMAIN-KEYWORD,roboflow
 DOMAIN-KEYWORD,echnical
