@@ -1,5 +1,6 @@
-payload:
-  - DOMAIN-SUFFIX,sub.v1.mk
-  - DOMAIN-SUFFIX,echnical.city
-  - DOMAIN-KEYWORD,roboflow
-  - DOMAIN-KEYWORD,echnical
+#域名域名直连
+DOMAIN-SUFFIX,sub.v1.mk
+DOMAIN-SUFFIX,echnical.city
+域名关键词直连
+DOMAIN-KEYWORD,roboflow
+DOMAIN-KEYWORD,echnical
