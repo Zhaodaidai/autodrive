@@ -2,32 +2,31 @@
   "spider": "../jar/spider.jar",
   "sites": [
     {
-      "key": "Tudou",
-      "name": "土豆|4K",
+      "key": "Douban",
+      "name": "豆瓣|首页",
       "type": 3,
-      "api": "csp_Wobg",
-      "searchable": "1",
-      "filterable": "1",
-      "changeable": 1,
+      "api": "csp_Douban",
+      "searchable": 0,
+      "changeable": 0,
       "ext": {
       }
     },
     {
-      "key": "Dadagui",
-      "name": "达达龟",
+      "key": "Liangzi",
+      "name": "量子影视",
       "type": 3,
-      "api": "https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js",
+      "api": "csp_Liangzi",
       "searchable": "1",
-      "filterable": "1",
+      "filterable": "0",
       "changeable": 0,
-      "ext": "https://jihulab.com/okcaptain/kko/-/raw/main/js/dadagui.js",
-      "timeout": 15
+      "ext": {
+      }
     },
     {
-      "key": "玩偶",
-      "name": "玩偶",
+      "key": "土豆",
+      "name": "土豆",
       "type": 3,
-      "api": "csp_Wogg",
+      "api": "csp_Wobg",
       "searchable": 1,
       "changeable": 1,
       "ext": {
