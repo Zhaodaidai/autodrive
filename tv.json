@@ -40,13 +40,21 @@
       "timeout": 30
     },
     {
-      "key": "YiSo",
-      "name": "易搜┃搜索",
+      "key": "Tiantian",
+      "name": "天天",
       "type": 3,
-      "api": "csp_YiSo",
+      "api": "csp_TianTian",
       "searchable": 1,
       "changeable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
+      "timeout": 30
+    },
+    {
+      "key": "Changzhang",
+      "name": "厂长",
+      "type": 3,
+      "api": "csp_Czzy",
+      "searchable": 1,
+      "changeable": 1,
       "timeout": 30
     },
     {
